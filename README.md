@@ -49,13 +49,13 @@
 Для запуска стека я использовал `docker-compose`.
 
 ### Скриншот 1: Веб-интерфейс Chronograf
-[https://github.com/user-attachments/assets/e77faf2a-6c16-45da-a0c9-f8cc612a223c]
+![](https://github.com/user-attachments/assets/e77faf2a-6c16-45da-a0c9-f8cc612a223c)
 
 ### Скриншот 2: График утилизации CPU
-[https://github.com/user-attachments/assets/eb34202c-f8f8-487c-ae9d-e5920bff79c9]
+![](https://github.com/user-attachments/assets/eb34202c-f8f8-487c-ae9d-e5920bff79c9)
 
 ### Скриншот 3: Метрики Docker в Telegraf
-[https://github.com/user-attachments/assets/48043e76-d8e3-452e-80cc-fb3f619278b4]
+![](https://github.com/user-attachments/assets/48043e76-d8e3-452e-80cc-fb3f619278b4)
 
 ---
 
